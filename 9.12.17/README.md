@@ -253,3 +253,18 @@ Die Dateiendung ist meist **.md** oder **.markdown** .
 Der Master [Branch](https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is) ist der Hauptast, wenn man nicht im Master Branch arbeiten will, macht man sich einen Nebenbranch, danach kann man den Nebenbranch wieder in den Master Branch zurück bringen.
 
 ----------------------------------------------------------------------
+
+Rielum17 <lukas.riegelnegg@gmail.com>
+	
+So., 15. Dez., 21:00 (vor 10 Stunden)
+	
+an mich
+
+### Git
+Quelle: https://www.stephenmarron.com/wp-content/uploads/2017/02/git.png
+![Git data transport](https://www.stephenmarron.com/wp-content/uploads/2017/02/git.png)
+
+Quelle:[Wiki](https://de.wikipedia.org/wiki/Git)
+>Git ist eine freie Software zur verteilten Versionsverwaltung von Dateien, die durch Linus Torvalds initiiert wurde.
+
+Als Editor wird [gedit](https://de.wikipedia.org/wiki/Gedit) verwendet. Es wird zwischen remote repository und local repository unterschieden. Es ist auch Offline zugänglich.
